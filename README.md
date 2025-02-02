@@ -41,6 +41,7 @@ The dataset contains the following features:
 
 ### **3⃣ Model Training & Evaluation**
 **Tested Machine Learning Models:**
+
 ✅ Decision Tree  
 ✅ Support Vector Machine (SVM)  
 ✅ Logistic Regression  
@@ -70,6 +71,3 @@ Top influencing factors in purchase decisions:
 🔹 **Hyperparameter Tuning**: Grid Search  
 
 ---
-
-## 🔗 Project Link
-[GitHub Repository / Demo Link] *(Add if available)*
